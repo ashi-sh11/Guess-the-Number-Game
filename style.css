@@ -17,7 +17,8 @@ h1{
 }
 #center{
     height: fit-content;
-    width: 43vw;
+    padding: 7vh;
+    width: fit-content;
     background-color: sienna;
     display: flex;
     align-items: center;
